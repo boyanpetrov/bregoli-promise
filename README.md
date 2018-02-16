@@ -2,7 +2,7 @@
 
 Handle async operations - Danielle Brigoli style
 
-![](https://gfycat.com/PerfumedFavoriteIlladopsis)
+![](https://thumbs.gfycat.com/PerfumedFavoriteIlladopsis-size_restricted.gif)
 
 ```
 const BregoliPromise = require('bregoli-promise');
