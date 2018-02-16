@@ -4,7 +4,7 @@ Handle async operations - Danielle Brigoli style
 
 ![](https://thumbs.gfycat.com/PerfumedFavoriteIlladopsis-size_restricted.gif)
 
-Original video, for context:
+For context:
 [Original Video](https://www.youtube.com/watch?v=R8l2Ga3_wvU)
 
 
