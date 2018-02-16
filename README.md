@@ -4,7 +4,7 @@ Handle async operations - Danielle Brigoli style
 
 ![](https://thumbs.gfycat.com/PerfumedFavoriteIlladopsis-size_restricted.gif)
 
-```
+```js
 const BregoliPromise = require('bregoli-promise');
 
 const bregoli = new BregoliPromise();
