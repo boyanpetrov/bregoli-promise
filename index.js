@@ -9,7 +9,7 @@ BregoliPromise.convert = function convert(promise, props) {
 
 BregoliPromise.prototype = Object.create(Promise.prototype);
 BregoliPromise.prototype.constructor = BregoliPromise;
-BregoliPromise.prototype.howBouThat = function howBouThat(resolve, reject) {
+BregoliPromise.prototype.howBouDah = function howBouThat(resolve, reject) {
     var returnVal = Promise.prototype.then.call(this, resolve, reject);
     return BregoliPromise.convert(returnVal);
 };
